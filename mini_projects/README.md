@@ -1,0 +1,2 @@
+# Java Fundamental Projects
+This repository serves as a compilation of Java fundamental projects that I've built while learning the core concepts of Java programming. Each project here demonstrates key aspects of Java, offering practical examples and exercises to reinforce foundational knowledge.
